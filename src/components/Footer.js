@@ -19,7 +19,7 @@ export const Footer = () => {
               <a href="https://www.instagram.com/tonyisme00/"><img src={ins_logo} alt="" /></a>
               <a href="https://www.linkedin.com/in/lntruong/"><img src={linkedin_logo} alt="" /></a>
             </div>
-            <p>Copyright 2022. All Rights Reserved</p>
+            <p>© 2022 Long Truong. All Rights Reserved</p>
           </Col>
         </Row>
       </Container>
